@@ -1,0 +1,27 @@
+header{
+    text-align: center;
+}
+table{
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    border: 4px solid blue;
+}
+th{
+    border: 2px solid blue;
+    padding: 5px;
+}
+td{
+    border: 2px solid blue;
+    padding: 4px;
+}
+#bold{
+    font-weight: bold;
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+.rowwidth{
+    padding-right: 80px;
+}
